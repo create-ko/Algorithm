@@ -1,14 +1,14 @@
 package Algorithm;
 
-/* ¹®Á¦ : °³ ¸ğ¾çÀ» Ãâ·ÂÇÏ½Ã¿À */
+/* ë¬¸ì œ : ì•„ë˜ ì˜ˆì œì™€ ê°™ì´ ê°œë¥¼ ì¶œë ¥í•˜ì‹œì˜¤. */
 
 public class Algorithm10172 {
 	
 	public void print(){
 		System.out.println("|\\_/|");
-		System.out.println("|q p|\t/}");
+		System.out.println("|q p|   /}");
 		System.out.println("( 0 )\"\"\"\\");
-		System.out.println("|\"^\"`\\t  |");
+		System.out.println("|\"^\"`    |");
 		System.out.println("||_/=\\\\__|");
 		
 	}

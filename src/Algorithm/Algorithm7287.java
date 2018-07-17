@@ -1,7 +1,7 @@
 package Algorithm;
 
-/* ¹®Á¦ÀÇ ³»¿ëÀº ÇöÀç ¹éÁØ ¾Ë°í¸®Áò¿¡¼­
- *  ÀÚ½ÅÀÌ ¸ÂÃá Á¤´ä ¼ö¿Í ÀÚ½ÅÀÇ ¾ÆÀÌµð¸¦ Ãâ·ÂÇÏ½Ã¿À. */
+/* ë¬¸ì œì˜ ë‚´ìš©ì€ í˜„ìž¬ ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ì—ì„œ
+ *  ìžì‹ ì´ ë§žì¶˜ ì •ë‹µ ìˆ˜ì™€ ìžì‹ ì˜ ì•„ì´ë””ë¥¼ ì¶œë ¥í•˜ì‹œì˜¤. */
 
 public class Algorithm7287 {
 

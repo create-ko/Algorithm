@@ -1,6 +1,6 @@
 package Algorithm;
 
-/* ¹®Á¦ : ÀÔ·ÂÀ» A, B ¸¦ ¹Ş°í, A+B¸¦ Ãâ·ÂÇÏ¶ó */
+/* ë¬¸ì œ : ì…ë ¥ì„ A, B ë¥¼ ë°›ê³ , A+Bë¥¼ ì¶œë ¥í•˜ë¼ */
 
 public class Algorithm1000 {
 
